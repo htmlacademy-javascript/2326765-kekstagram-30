@@ -1,7 +1,7 @@
 # Личный проект «Кекстаграм»
 
-* Студент: [Анастасия Колмагорова](https://up.htmlacademy.ru/javascript/30/user/2326765).
-* Наставник: `Неизвестно`.
+- Студент: [Анастасия Колмагорова](https://up.htmlacademy.ru/javascript/30/user/2326765).
+- Наставник: [Александр Сударев](https://htmlacademy.ru/profile/id1152185).
 
 ---
 
